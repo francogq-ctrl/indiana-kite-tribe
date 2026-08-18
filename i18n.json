@@ -1,0 +1,620 @@
+{
+  "es": {
+    "meta": {
+      "title": "Indiana Kite Tribe · Downwind 2026 · Cumbuco a Jeri",
+      "description": "Downwind de 5 días, Cumbuco a Jeri. 6-10 oct y 10-14 nov 2026. Para kiters con al menos 30 km de downwind previo."
+    },
+    "nav": {
+      "recorrido": "Recorrido",
+      "spots": "Spots",
+      "incluye": "Incluye",
+      "reviews": "Reviews",
+      "wa": "WhatsApp",
+      "menu": "Abrir menú"
+    },
+    "hero": {
+      "eyebrow": "Indiana Kite Tribe",
+      "from": "Cumbuco",
+      "to": "Jeri",
+      "days": "5 días",
+      "km": "242 km",
+      "windows": "6-10 oct · 10-14 nov",
+      "lead": "Cinco días de downwind, Cumbuco a Jeri. Capitán en el agua, dos guías, dos 4x4. Briefing cada mañana. Si no llegás al punto, seguís en el auto.",
+      "cta": "Quiero mi cupo",
+      "downwind": "Downwind"
+    },
+    "recorrido": {
+      "kicker": "Recorrido",
+      "title": "Cumbuco a Jeri, en cinco tramos.",
+      "lead": "Cada mañana se arma el día: viento, marea, dónde se sale y dónde se cierra. Si el tramo se te hace largo, el 4x4 te espera. El grupo no se parte en el agua."
+    },
+    "fechas": {
+      "octLabel": "Octubre",
+      "octRange": "6-10 oct 2026",
+      "octNote": "5 días · 242 km",
+      "novLabel": "Noviembre",
+      "novRange": "10-14 nov 2026",
+      "novNote": "5 días · 242 km",
+      "ctaOct": "Quiero octubre",
+      "ctaNov": "Quiero noviembre"
+    },
+    "day1": {
+      "label": "Día 1",
+      "leg": "Cumbuco → Paracuru",
+      "water": "Salís de la playa de Indiana y recorrés la costa hasta Paracuru. Primer día para acomodar ritmo y grupo.",
+      "night": "Noche: asado incluido."
+    },
+    "day2": {
+      "label": "Día 2",
+      "leg": "Paracuru → Baleia",
+      "water": "El tramo más largo. Marea y luz a favor, pero pide piernas y cabeza.",
+      "night": "Noche libre en Baleia."
+    },
+    "day3": {
+      "label": "Día 3",
+      "leg": "Baleia → Almofala",
+      "water": "Costa más abierta. Mismo esquema: briefing, agua, apoyo en tierra.",
+      "night": "Noche: peixe na brasa incluido."
+    },
+    "day4": {
+      "label": "Día 4",
+      "leg": "Almofala → Arpoeiras",
+      "water": "El día corto. Sirve para llegar enteros al cierre.",
+      "night": "Noche libre en Arpoeiras."
+    },
+    "day5": {
+      "label": "Día 5",
+      "leg": "Arpoeiras → Jeri",
+      "water": "Entrás a Jericoacoara. Después, vuelta a Cumbuco. Día y hora se confirman en el trip.",
+      "night": "Noche libre en Jeri."
+    },
+    "incluye": {
+      "kicker": "Qué incluye",
+      "title": "Lo que viaja con vos.",
+      "lead": "Agua, tierra, cama y comida de día. El precio 2026 todavía no está cerrado. Abajo va el de 2025, para tener una referencia.",
+      "listTitle": "Incluido",
+      "item1": "5 días de hospedaje",
+      "item2": "Desayunos, lunch e hidratación",
+      "item3": "Todos los traslados y la vuelta a Cumbuco",
+      "item4": "Capitán, 2 guías y 2 autos 4x4",
+      "item5": "Fotos y videos del viaje",
+      "item6": "Kit Indiana Kite Tribe",
+      "item7": "Asado día 1 y peixe na brasa dia 3",
+      "notTitle": "No incluye",
+      "notNote": "Lista 2025. Algunos ítems pueden cambiar.",
+      "not1": "Vuelos",
+      "not2": "Equipo de kite / rental",
+      "not3": "Cenas de los días 2, 4 y 5",
+      "not4": "Seguro de viaje",
+      "not5": "Drinks extra",
+      "priceFrom": "Desde",
+      "price": "USD 1.100",
+      "priceNote": "Precio 2025. El de 2026 se confirma por WhatsApp.",
+      "promo": "En 2025 los primeros cupos salieron a USD 1.000.",
+      "pix": "Valores en efectivo o Pix."
+    },
+    "spots": {
+      "kicker": "Spots y posadas",
+      "title": "Dónde dormís, y qué pasa cada día.",
+      "lead": "Salís de Indiana Kite Hostel. Las cinco noches del downwind son posadas a lo largo de la costa. Los nombres 2026 todavía no están cerrados."
+    },
+    "spotsList": {
+      "cumbuco": {
+        "name": "Cumbuco",
+        "km": "Km 0 · salida",
+        "stay": "Indiana Kite Hostel",
+        "role": "Base. Acá se sale.",
+        "tag": "Salida"
+      },
+      "paracuru": {
+        "name": "Paracuru",
+        "km": "Km 41 · noche 1",
+        "stay": "Posada a confirmar",
+        "role": "Día 1, 41 km. Noche de asado.",
+        "tag": "Asado incluido"
+      },
+      "baleia": {
+        "name": "Baleia",
+        "km": "Km 106 · noche 2",
+        "stay": "Posada a confirmar",
+        "role": "Día 2, 65 km. El más largo. Cena por tu cuenta.",
+        "tag": "Cena libre"
+      },
+      "almofala": {
+        "name": "Almofala",
+        "km": "Km 158 · noche 3",
+        "stay": "Posada a confirmar",
+        "role": "Día 3, 52 km. Peixe na brasa.",
+        "tag": "Peixe incluido"
+      },
+      "arpoeiras": {
+        "name": "Arpoeiras",
+        "km": "Km 190 · noche 4",
+        "stay": "Posada a confirmar",
+        "role": "Día 4, 32 km. Día corto. Cena por tu cuenta.",
+        "tag": "Cena libre"
+      },
+      "jeri": {
+        "name": "Jericoacoara",
+        "km": "Km 242 · noche 5",
+        "stay": "Posada a confirmar",
+        "role": "Día 5, 52 km. Cierre. Vuelta a Cumbuco después.",
+        "tag": "Cena libre"
+      }
+    },
+    "galeria": {
+      "kicker": "Galería",
+      "title": "El trip, en fotos.",
+      "replace": "Reemplazar",
+      "g1": "Costa / drone",
+      "g2": "Kite en el agua",
+      "g3": "4x4 de apoyo",
+      "g4": "Asado",
+      "g5": "Briefing",
+      "g6": "Jeri"
+    },
+    "reviews": {
+      "kicker": "Reviews",
+      "title": "Los que ya hicieron Cumbuco-Jeri.",
+      "lead": "Caras de la tribe. Falta pegar los comentarios reales.",
+      "r1": {
+        "quote": "[Testimonio 1]",
+        "name": "Nombre · Tribe 2025"
+      },
+      "r2": {
+        "quote": "[Testimonio 2]",
+        "name": "Nombre · Tribe 2025"
+      },
+      "r3": {
+        "quote": "[Testimonio 3]",
+        "name": "Nombre · Tribe 2025"
+      }
+    },
+    "faq": {
+      "kicker": "Nivel y preguntas",
+      "title": "Si esto te cierra, leé esto.",
+      "q1": "¿Qué nivel hace falta?",
+      "a1": "Intermedio o más. Mínimo 30 km de downwind previo. Si estás en el límite, preguntá: mejor ahora que en el km 40.",
+      "q2": "¿Qué pasa si no termino un tramo?",
+      "a2": "Seguís en el 4x4. El grupo no espera en el agua. Así se cuida a todos.",
+      "q3": "¿Cuántos cupos hay?",
+      "a3": "Limitados. El numero 2026 todavía no está cerrado. WhatsApp es el canal.",
+      "q4": "¿En qué idioma va el grupo?",
+      "a4": "La base habla español y portugués. Inglés, según quién se sume.",
+      "q5": "¿Llevo equipo o hay rental?",
+      "a5": "Todavía no está cerrado para 2026. Si necesitás rental, decilo en el WhatsApp.",
+      "q6": "¿Cuándo volvemos a Cumbuco?",
+      "a6": "La vuelta esta incluida. Día y hora se confirman en el briefing.",
+      "q7": "¿Hay filmmaker todo el trip?",
+      "a7": "El paquete incluye fotos y video. Si hay filmmaker en el agua los cinco días, o material del equipo, lo confirmamos por WhatsApp."
+    },
+    "cta": {
+      "title": "Si vas, el cupo es por WhatsApp.",
+      "lead": "Elegí octubre o noviembre. O escribí si todavía no sabés.",
+      "oct": "Quiero octubre",
+      "nov": "Quiero noviembre",
+      "generic": "Todavía no sé las fechas"
+    },
+    "footer": {
+      "copy": "Indiana Kite Tribe · Cumbuco, Ceara",
+      "note": "Esta página es el downwind Cumbuco-Jeri. No es Intro ni Kite Camp."
+    },
+    "wa": {
+      "generic": "Hola, quiero info del Indiana Kite Tribe 2026 (Cumbuco a Jeri).",
+      "oct": "Hola, quiero un cupo en Indiana Kite Tribe 2026, salida 6 al 10 de octubre.",
+      "nov": "Hola, quiero un cupo en Indiana Kite Tribe 2026, salida 10 al 14 de noviembre."
+    }
+  },
+  "pt": {
+    "meta": {
+      "title": "Indiana Kite Tribe · Downwind 2026 · Cumbuco a Jeri",
+      "description": "Downwind de 5 dias, Cumbuco a Jeri. 6-10 out e 10-14 nov 2026. Para kiters com pelo menos 30 km de downwind prévio."
+    },
+    "nav": {
+      "recorrido": "Percurso",
+      "spots": "Spots",
+      "incluye": "Inclui",
+      "reviews": "Reviews",
+      "wa": "WhatsApp",
+      "menu": "Abrir menu"
+    },
+    "hero": {
+      "eyebrow": "Indiana Kite Tribe",
+      "from": "Cumbuco",
+      "to": "Jeri",
+      "days": "5 dias",
+      "km": "242 km",
+      "windows": "6-10 out · 10-14 nov",
+      "lead": "Cinco dias de downwind, Cumbuco a Jeri. Capitão na água, dois guias, dois 4x4. Briefing toda manhã. Se você não chegar no ponto, segue no carro.",
+      "cta": "Quero minha vaga",
+      "downwind": "Downwind"
+    },
+    "recorrido": {
+      "kicker": "Percurso",
+      "title": "Cumbuco a Jeri, em cinco trechos.",
+      "lead": "Toda manhã se monta o dia: vento, maré, onde se sai e onde se fecha. Se o trecho ficar longo, o 4x4 espera. O grupo não se parte na água."
+    },
+    "fechas": {
+      "octLabel": "Outubro",
+      "octRange": "6-10 out 2026",
+      "octNote": "5 dias · 242 km",
+      "novLabel": "Novembro",
+      "novRange": "10-14 nov 2026",
+      "novNote": "5 dias · 242 km",
+      "ctaOct": "Quero outubro",
+      "ctaNov": "Quero novembro"
+    },
+    "day1": {
+      "label": "Dia 1",
+      "leg": "Cumbuco → Paracuru",
+      "water": "Você sai da praia da Indiana e percorre a costa até Paracuru. Primeiro dia para achar ritmo e grupo.",
+      "night": "Noite: asado incluído."
+    },
+    "day2": {
+      "label": "Dia 2",
+      "leg": "Paracuru → Baleia",
+      "water": "O trecho mais longo. Maré e luz a favor, mas pede perna e cabeça.",
+      "night": "Noite livre em Baleia."
+    },
+    "day3": {
+      "label": "Dia 3",
+      "leg": "Baleia → Almofala",
+      "water": "Costa mais aberta. Mesmo esquema: briefing, agua, apoio em terra.",
+      "night": "Noite: peixe na brasa incluído."
+    },
+    "day4": {
+      "label": "Dia 4",
+      "leg": "Almofala → Arpoeiras",
+      "water": "O dia curto. Serve para chegar inteiro no fechamento.",
+      "night": "Noite livre em Arpoeiras."
+    },
+    "day5": {
+      "label": "Dia 5",
+      "leg": "Arpoeiras → Jeri",
+      "water": "Voce entra em Jericoacoara. Depois, volta para Cumbuco. Dia e hora se confirmam na trip.",
+      "night": "Noite livre em Jeri."
+    },
+    "incluye": {
+      "kicker": "O que inclui",
+      "title": "O que viaja com você.",
+      "lead": "Água, terra, cama e comida de dia. O preço 2026 ainda não está fechado. Abaixo vai o de 2025, como referência.",
+      "listTitle": "Incluido",
+      "item1": "5 dias de hospedagem",
+      "item2": "Cafés da manhã, lunch e hidratação",
+      "item3": "Todos os transfers e a volta para Cumbuco",
+      "item4": "Capitão, 2 guias e 2 carros 4x4",
+      "item5": "Fotos e vídeos da viagem",
+      "item6": "Kit Indiana Kite Tribe",
+      "item7": "Asado dia 1 e peixe na brasa dia 3",
+      "notTitle": "Não inclui",
+      "notNote": "Lista 2025. Alguns itens podem mudar.",
+      "not1": "Voos",
+      "not2": "Equipamento de kite / rental",
+      "not3": "Jantares dos dias 2, 4 e 5",
+      "not4": "Seguro viagem",
+      "not5": "Drinks extras",
+      "priceFrom": "A partir de",
+      "price": "USD 1.100",
+      "priceNote": "Preco 2025. O de 2026 se confirma no WhatsApp.",
+      "promo": "Em 2025 as primeiras vagas sairam a USD 1.000.",
+      "pix": "Valores em dinheiro ou Pix."
+    },
+    "spots": {
+      "kicker": "Spots e pousadas",
+      "title": "Onde você dorme, e o que rola cada dia.",
+      "lead": "A saída é o Indiana Kite Hostel. As cinco noites do downwind são pousadas ao longo da costa. Os nomes 2026 ainda não estão fechados."
+    },
+    "spotsList": {
+      "cumbuco": {
+        "name": "Cumbuco",
+        "km": "Km 0 · saída",
+        "stay": "Indiana Kite Hostel",
+        "role": "Base. Daqui se sai.",
+        "tag": "Saída"
+      },
+      "paracuru": {
+        "name": "Paracuru",
+        "km": "Km 41 · noite 1",
+        "stay": "Pousada a confirmar",
+        "role": "Dia 1, 41 km. Noite de asado.",
+        "tag": "Asado incluído"
+      },
+      "baleia": {
+        "name": "Baleia",
+        "km": "Km 106 · noite 2",
+        "stay": "Pousada a confirmar",
+        "role": "Dia 2, 65 km. O mais longo. Jantar por sua conta.",
+        "tag": "Jantar livre"
+      },
+      "almofala": {
+        "name": "Almofala",
+        "km": "Km 158 · noite 3",
+        "stay": "Pousada a confirmar",
+        "role": "Dia 3, 52 km. Peixe na brasa.",
+        "tag": "Peixe incluído"
+      },
+      "arpoeiras": {
+        "name": "Arpoeiras",
+        "km": "Km 190 · noite 4",
+        "stay": "Pousada a confirmar",
+        "role": "Dia 4, 32 km. Dia curto. Jantar por sua conta.",
+        "tag": "Jantar livre"
+      },
+      "jeri": {
+        "name": "Jericoacoara",
+        "km": "Km 242 · noite 5",
+        "stay": "Pousada a confirmar",
+        "role": "Dia 5, 52 km. Fechamento. Volta para Cumbuco depois.",
+        "tag": "Jantar livre"
+      }
+    },
+    "galeria": {
+      "kicker": "Galeria",
+      "title": "A trip, em fotos.",
+      "replace": "Substituir",
+      "g1": "Costa / drone",
+      "g2": "Kite na água",
+      "g3": "4x4 de apoio",
+      "g4": "Asado",
+      "g5": "Briefing",
+      "g6": "Jeri"
+    },
+    "reviews": {
+      "kicker": "Reviews",
+      "title": "Quem já fez Cumbuco-Jeri.",
+      "lead": "Caras da tribe. Falta colar os comentários reais.",
+      "r1": {
+        "quote": "[Depoimento 1]",
+        "name": "Nome · Tribe 2025"
+      },
+      "r2": {
+        "quote": "[Depoimento 2]",
+        "name": "Nome · Tribe 2025"
+      },
+      "r3": {
+        "quote": "[Depoimento 3]",
+        "name": "Nome · Tribe 2025"
+      }
+    },
+    "faq": {
+      "kicker": "Nível e perguntas",
+      "title": "Se isso fecha, lê isso.",
+      "q1": "Qual nível precisa?",
+      "a1": "Intermediário ou mais. Mínimo 30 km de downwind prévio. Se você está no limite, pergunta: melhor agora do que no km 40.",
+      "q2": "E se eu não terminar um trecho?",
+      "a2": "Voce segue no 4x4. O grupo não espera na água. Assim se cuida de todo mundo.",
+      "q3": "Quantas vagas tem?",
+      "a3": "Limitadas. O número 2026 ainda não está fechado. WhatsApp é o canal.",
+      "q4": "Em que idioma roda o grupo?",
+      "a4": "A base fala espanhol e português. Inglês, conforme quem entrar.",
+      "q5": "Levo equipamento ou tem rental?",
+      "a5": "Ainda não está fechado para 2026. Se precisar de rental, fala no WhatsApp.",
+      "q6": "Quando voltamos para Cumbuco?",
+      "a6": "A volta está incluída. Dia e hora se confirmam no briefing.",
+      "q7": "Tem filmmaker a trip toda?",
+      "a7": "O pacote inclui foto e video. Se tem filmmaker na água os cinco dias, ou material da equipe, confirmamos no WhatsApp."
+    },
+    "cta": {
+      "title": "Se você vai, a vaga é no WhatsApp.",
+      "lead": "Escolhe outubro ou novembro. Ou escreve se ainda não sabe.",
+      "oct": "Quero outubro",
+      "nov": "Quero novembro",
+      "generic": "Ainda não sei as datas"
+    },
+    "footer": {
+      "copy": "Indiana Kite Tribe · Cumbuco, Ceara",
+      "note": "Esta página é o downwind Cumbuco-Jeri. Não é Intro nem Kite Camp."
+    },
+    "wa": {
+      "generic": "Oi, quero info do Indiana Kite Tribe 2026 (Cumbuco a Jeri).",
+      "oct": "Oi, quero uma vaga no Indiana Kite Tribe 2026, saída 6 a 10 de outubro.",
+      "nov": "Oi, quero uma vaga no Indiana Kite Tribe 2026, saída 10 a 14 de novembro."
+    }
+  },
+  "en": {
+    "meta": {
+      "title": "Indiana Kite Tribe · Downwind 2026 · Cumbuco to Jeri",
+      "description": "5-day downwind, Cumbuco to Jeri. 6-10 Oct and 10-14 Nov 2026. For kiters with at least 30 km of prior downwind."
+    },
+    "nav": {
+      "recorrido": "Route",
+      "spots": "Spots",
+      "incluye": "Included",
+      "reviews": "Reviews",
+      "wa": "WhatsApp",
+      "menu": "Open menu"
+    },
+    "hero": {
+      "eyebrow": "Indiana Kite Tribe",
+      "from": "Cumbuco",
+      "to": "Jeri",
+      "days": "5 days",
+      "km": "242 km",
+      "windows": "6-10 Oct · 10-14 Nov",
+      "lead": "Five days of downwind, Cumbuco to Jeri. Captain on the water, two guides, two 4x4s. Briefing every morning. If you miss the meeting point, you get in the truck.",
+      "cta": "I want a spot",
+      "downwind": "Downwind"
+    },
+    "recorrido": {
+      "kicker": "Route",
+      "title": "Cumbuco to Jeri, in five legs.",
+      "lead": "Every morning we set the day: wind, tide, launch and finish. If a leg runs long, the 4x4 is there. The group does not split on the water."
+    },
+    "fechas": {
+      "octLabel": "October",
+      "octRange": "6-10 Oct 2026",
+      "octNote": "5 days · 242 km",
+      "novLabel": "November",
+      "novRange": "10-14 Nov 2026",
+      "novNote": "5 days · 242 km",
+      "ctaOct": "I want October",
+      "ctaNov": "I want November"
+    },
+    "day1": {
+      "label": "Day 1",
+      "leg": "Cumbuco → Paracuru",
+      "water": "You leave Indiana beach and ride the coast to Paracuru. First day to find rhythm and group.",
+      "night": "Night: asado included."
+    },
+    "day2": {
+      "label": "Day 2",
+      "leg": "Paracuru → Baleia",
+      "water": "The longest leg. Tide and light on your side, but it asks for legs and head.",
+      "night": "Dinner on your own in Baleia."
+    },
+    "day3": {
+      "label": "Day 3",
+      "leg": "Baleia → Almofala",
+      "water": "More open coast. Same setup: briefing, water, land support.",
+      "night": "Night: peixe na brasa included."
+    },
+    "day4": {
+      "label": "Day 4",
+      "leg": "Almofala → Arpoeiras",
+      "water": "The short day. Time to arrive whole for the finish.",
+      "night": "Dinner on your own in Arpoeiras."
+    },
+    "day5": {
+      "label": "Day 5",
+      "leg": "Arpoeiras → Jeri",
+      "water": "You ride into Jericoacoara. Then back to Cumbuco. Day and time get confirmed on the trip.",
+      "night": "Dinner on your own in Jeri."
+    },
+    "incluye": {
+      "kicker": "What's included",
+      "title": "What travels with you.",
+      "lead": "Water, land, a bed, and food during the day. 2026 pricing is not locked. The 2025 figure below is a reference.",
+      "listTitle": "Included",
+      "item1": "5 days of lodging",
+      "item2": "Breakfasts, lunch, and hydration",
+      "item3": "All transfers and the return to Cumbuco",
+      "item4": "Captain, 2 guides, and 2 4x4 trucks",
+      "item5": "Photos and video from the trip",
+      "item6": "Indiana Kite Tribe kit",
+      "item7": "Asado on day 1 and peixe na brasa on day 3",
+      "notTitle": "Not included",
+      "notNote": "2025 list. Some items may change.",
+      "not1": "Flights",
+      "not2": "Kite gear / rental",
+      "not3": "Dinners on days 2, 4, and 5",
+      "not4": "Travel insurance",
+      "not5": "Extra drinks",
+      "priceFrom": "From",
+      "price": "USD 1,100",
+      "priceNote": "2025 price. 2026 is confirmed on WhatsApp.",
+      "promo": "In 2025 the first spots went out at USD 1,000.",
+      "pix": "Prices quoted for cash or Pix."
+    },
+    "spots": {
+      "kicker": "Spots and pousadas",
+      "title": "Where you sleep, and what happens each day.",
+      "lead": "You leave from Indiana Kite Hostel. The five downwind nights are pousadas along the coast. 2026 names are not locked yet."
+    },
+    "spotsList": {
+      "cumbuco": {
+        "name": "Cumbuco",
+        "km": "Km 0 · start",
+        "stay": "Indiana Kite Hostel",
+        "role": "Base. This is where you leave.",
+        "tag": "Start"
+      },
+      "paracuru": {
+        "name": "Paracuru",
+        "km": "Km 41 · night 1",
+        "stay": "Pousada to confirm",
+        "role": "Day 1, 41 km. Asado night.",
+        "tag": "Asado included"
+      },
+      "baleia": {
+        "name": "Baleia",
+        "km": "Km 106 · night 2",
+        "stay": "Pousada to confirm",
+        "role": "Day 2, 65 km. The longest. Dinner on your own.",
+        "tag": "Dinner on your own"
+      },
+      "almofala": {
+        "name": "Almofala",
+        "km": "Km 158 · night 3",
+        "stay": "Pousada to confirm",
+        "role": "Day 3, 52 km. Peixe na brasa.",
+        "tag": "Peixe included"
+      },
+      "arpoeiras": {
+        "name": "Arpoeiras",
+        "km": "Km 190 · night 4",
+        "stay": "Pousada to confirm",
+        "role": "Day 4, 32 km. Short day. Dinner on your own.",
+        "tag": "Dinner on your own"
+      },
+      "jeri": {
+        "name": "Jericoacoara",
+        "km": "Km 242 · night 5",
+        "stay": "Pousada to confirm",
+        "role": "Day 5, 52 km. Finish. Back to Cumbuco after.",
+        "tag": "Dinner on your own"
+      }
+    },
+    "galeria": {
+      "kicker": "Gallery",
+      "title": "The trip, in photos.",
+      "replace": "Replace",
+      "g1": "Coast / drone",
+      "g2": "Kite on the water",
+      "g3": "Support 4x4",
+      "g4": "Asado",
+      "g5": "Briefing",
+      "g6": "Jeri"
+    },
+    "reviews": {
+      "kicker": "Reviews",
+      "title": "People who already rode Cumbuco-Jeri.",
+      "lead": "Faces from the tribe. Real quotes still to paste.",
+      "r1": {
+        "quote": "[Review 1]",
+        "name": "Name · Tribe 2025"
+      },
+      "r2": {
+        "quote": "[Review 2]",
+        "name": "Name · Tribe 2025"
+      },
+      "r3": {
+        "quote": "[Review 3]",
+        "name": "Name · Tribe 2025"
+      }
+    },
+    "faq": {
+      "kicker": "Level and questions",
+      "title": "If this lands, read this.",
+      "q1": "What level do I need?",
+      "a1": "Intermediate or above. At least 30 km of prior downwind. If you are on the edge, ask now. Better now than at km 40.",
+      "q2": "What if I do not finish a leg?",
+      "a2": "You continue in the 4x4. The group does not wait on the water. That is how everyone stays safe.",
+      "q3": "How many spots are there?",
+      "a3": "Limited. The 2026 number is not locked yet. WhatsApp is the channel.",
+      "q4": "What language does the group run in?",
+      "a4": "The base speaks Spanish and Portuguese. English depends on who joins.",
+      "q5": "Do I bring my own gear, or is there rental?",
+      "a5": "Not locked for 2026 yet. If you need rental, say so on WhatsApp.",
+      "q6": "When do we return to Cumbuco?",
+      "a6": "The return is included. Day and time get confirmed at the briefing.",
+      "q7": "Is there a filmmaker the whole trip?",
+      "a7": "The package includes photos and video. Whether there is a filmmaker on the water all five days, or crew footage, we confirm on WhatsApp."
+    },
+    "cta": {
+      "title": "If you are going, the spot is on WhatsApp.",
+      "lead": "Pick October or November. Or write if you do not know yet.",
+      "oct": "I want October",
+      "nov": "I want November",
+      "generic": "I do not know the dates yet"
+    },
+    "footer": {
+      "copy": "Indiana Kite Tribe · Cumbuco, Ceara",
+      "note": "This page is the Cumbuco-Jeri downwind. It is not Intro or Kite Camp."
+    },
+    "wa": {
+      "generic": "Hi, I want info on Indiana Kite Tribe 2026 (Cumbuco to Jeri).",
+      "oct": "Hi, I want a spot on Indiana Kite Tribe 2026, departure 6-10 October.",
+      "nov": "Hi, I want a spot on Indiana Kite Tribe 2026, departure 10-14 November."
+    }
+  }
+}

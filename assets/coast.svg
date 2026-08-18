@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 670" fill="none" aria-hidden="true">
+  <!-- North up: Jeri at top, Cumbuco at bottom. Sur → norte. -->
+  <defs>
+    <filter id="kite-glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feDropShadow dx="0" dy="1.5" stdDeviation="2.2" flood-color="#1C3324" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+  <text x="148" y="22" text-anchor="end" fill="#1C3324" font-size="11" font-family="Archivo, sans-serif" font-weight="800" letter-spacing="0.12em">N</text>
+  <path class="coast-sea" d="M0 670 L90 646 C 102 600, 68 570, 80 542 C 96 480, 56 430, 68 376 C 84 320, 48 280, 58 244 C 70 202, 42 182, 48 162 C 56 110, 40 74, 34 50 C 28 34, 20 26, 16 22 L 0 0 Z" fill="#1C3324" opacity="0.08"/>
+  <path d="M90 646 L80 542" stroke="#6A7F45" stroke-width="6" stroke-linecap="round"/>
+  <path d="M80 542 L68 376" stroke="#E8B33A" stroke-width="6" stroke-linecap="round"/>
+  <path d="M68 376 L58 244" stroke="#FF5C2A" stroke-width="6" stroke-linecap="round"/>
+  <path d="M58 244 L48 162" stroke="#D2F04A" stroke-width="6" stroke-linecap="round"/>
+  <path d="M48 162 L34 50" stroke="#C4B5E0" stroke-width="6" stroke-linecap="round"/>
+  <path class="coast-seam" d="M96 646 C 108 600, 74 570, 86 542 C 102 480, 62 430, 74 376 C 90 320, 54 280, 64 244 C 76 202, 48 182, 54 162 C 62 110, 46 74, 40 50 C 34 34, 26 26, 22 22" stroke="#FF5C2A" stroke-width="2" stroke-dasharray="4 8" opacity="0.45" fill="none"/>
+  <path id="coast-line" class="coast-line" d="M90 646 C 102 600, 68 570, 80 542 C 96 480, 56 430, 68 376 C 84 320, 48 280, 58 244 C 70 202, 42 182, 48 162 C 56 110, 40 74, 34 50 C 28 34, 20 26, 16 22" stroke="#1C3324" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path id="coast-progress" class="coast-progress" d="M90 646 C 102 600, 68 570, 80 542 C 96 480, 56 430, 68 376 C 84 320, 48 280, 58 244 C 70 202, 42 182, 48 162 C 56 110, 40 74, 34 50 C 28 34, 20 26, 16 22" stroke="#1C3324" stroke-width="3" stroke-linecap="round" fill="none" pathLength="242" stroke-dasharray="242" stroke-dashoffset="242" opacity="0"/>
+  <g class="coast-stop" data-stop="jeri" data-km="242"><circle cx="34" cy="50" r="7" class="stop-ring"/><circle cx="34" cy="50" r="3.25" class="stop-dot"/></g>
+  <g class="coast-stop" data-stop="arpoeiras" data-km="190"><circle cx="48" cy="162" r="7" class="stop-ring"/><circle cx="48" cy="162" r="3.25" class="stop-dot"/></g>
+  <g class="coast-stop" data-stop="almofala" data-km="158"><circle cx="58" cy="244" r="7" class="stop-ring"/><circle cx="58" cy="244" r="3.25" class="stop-dot"/></g>
+  <g class="coast-stop" data-stop="baleia" data-km="106"><circle cx="68" cy="376" r="7" class="stop-ring"/><circle cx="68" cy="376" r="3.25" class="stop-dot"/></g>
+  <g class="coast-stop" data-stop="paracuru" data-km="41"><circle cx="80" cy="542" r="7" class="stop-ring"/><circle cx="80" cy="542" r="3.25" class="stop-dot"/></g>
+  <g class="coast-stop" data-stop="cumbuco" data-km="0"><circle cx="90" cy="646" r="7" class="stop-ring"/><circle cx="90" cy="646" r="3.25" class="stop-dot"/></g>
+  <g id="kite-dot" transform="translate(90 646)">
+    <circle r="18" fill="#1C3324" opacity="0.42"/>
+    <polygon points="0,-20 15,11 0,4 -15,11" fill="#F3EDE3" stroke="#1C3324" stroke-width="2.4" stroke-linejoin="round" filter="url(#kite-glow)"/>
+  </g>
+</svg>
